@@ -1,1 +1,2 @@
 i'm is a test D
+i fixed a bug for master 
